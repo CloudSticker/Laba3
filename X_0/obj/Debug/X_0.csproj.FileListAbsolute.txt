@@ -1,0 +1,32 @@
+C:\Users\Toxic Knight\source\repos\X_0\X_0\bin\Debug\X_0.exe.config
+C:\Users\Toxic Knight\source\repos\X_0\X_0\bin\Debug\X_0.exe
+C:\Users\Toxic Knight\source\repos\X_0\X_0\bin\Debug\X_0.pdb
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.csprojAssemblyReference.cache
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\MainWindow.g.cs
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\App.g.cs
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0_MarkupCompile.cache
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0_MarkupCompile.lref
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\MainWindow.baml
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.g.resources
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.Properties.Resources.resources
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.csproj.GenerateResource.cache
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.exe
+C:\Users\Toxic Knight\source\repos\X_0\X_0\obj\Debug\X_0.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\bin\Debug\X_0.exe.config
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\bin\Debug\X_0.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\bin\Debug\X_0.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.csprojAssemblyReference.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\MainWindow.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\App.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0_MarkupCompile.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0_MarkupCompile.lref
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\MainWindow.baml
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.g.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.Properties.Resources.resources
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.csproj.GenerateResource.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.exe
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\X_0.pdb
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\WinBox.g.cs
+C:\Users\Toxic Knight\OneDrive - НИТУ МИСиС\1 курс\2 семестр\ООП\Лабораторные работы\Лабораторная 3\X_0\X_0\obj\Debug\WinBox.baml
